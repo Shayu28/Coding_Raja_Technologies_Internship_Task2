@@ -10,6 +10,6 @@ ALGORITHM:
 
 4. Expense Analysis
 
-5.Save Transactions
+5. Save Transactions
 
-6.Run the Application
+6. Run the Application
