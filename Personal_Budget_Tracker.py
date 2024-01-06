@@ -71,12 +71,12 @@ class BudgetTracker:
         messagebox.showinfo("Expense Analysis", analysis_text)
 
     def save_transactions(self):
-        with open(r"C:\Users\Admin\Downloads\Task_2\Budget_tracker.txt", "w") as file:
+        with open(r"C:\Users\Admin\Downloads\Task_2\Expense_list.txt", "w") as file:
             json.dump(self.transactions, file)
 
     def load_transactions(self):
         try:
-            with open(r"C:\Users\Admin\Downloads\Task_2\Budget_tracker.txt", "r") as file:
+            with open(r"C:\Users\Admin\Downloads\Task_2\Expense_list.txt", "r") as file:
                 transactions = json.load(file)
         except FileNotFoundError:
             transactions = []
