@@ -1,4 +1,0 @@
-[{"Timestamp": "2024-01-06 14:30:00", "Income": 2000.0, "Expense": 500.0, "Category": "Groceries"},
- {"Timestamp": "2024-01-07 10:15:00", "Income": 1500.0, "Expense": 300.0, "Category": "Utilities"}, 
- {"Timestamp": "2024-01-08 16:45:00", "Income": 2500.0, "Expense": 800.0, "Category": "Entertainment"}, 
- {"Timestamp": "2024-01-06 18:07:41", "Income": 20000.0, "Expense": 3500.0, "Category": "Studies"}]
